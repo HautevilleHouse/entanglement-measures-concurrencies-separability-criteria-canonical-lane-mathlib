@@ -1,0 +1,9 @@
+import entanglement_measures_concurrencies_separability_criteria_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace entanglement_measures_concurrencies_separability_criteria_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end entanglement_measures_concurrencies_separability_criteria_canonical_lane_mathlib
+end HautevilleHouse
